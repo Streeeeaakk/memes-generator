@@ -60,7 +60,7 @@ export default function Meme(props) {
                     className="form--button"
                     onClick={getMemeImage}
                 >
-                    Get a new meme image 🖼
+                    Get a new Meme image 🖼
                 </button>
             </div>
             <div className="meme">
